@@ -1,5 +1,6 @@
 #ignore single file and folder
-new-file.txt
+#new-file.txt
+
 bin/
 
 #ignore all files with exten .tmp
